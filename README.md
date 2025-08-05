@@ -70,8 +70,7 @@ Applied classification models include:
 ## 📊 Tableau Dashboard
 
 Explore interactive insights from the data using Tableau:  
-👉[ _Understanding Customers Through Financial Behavior_ *(link coming soon)*
-](https://public.tableau.com/app/profile/halaturkialotaibi/viz/UnderstandingCustomersThroughFinancialBehavior/Overview)
+👉https://public.tableau.com/app/profile/halaturkialotaibi/viz/UnderstandingCustomersThroughFinancialBehavior/Overview
 ---
 
 ## 👩‍💻 Authors
