@@ -45,14 +45,17 @@ Using this model, the bank can classify each customer as a **Saver**, **Investor
 ### 📊 Exploratory Data Analysis (EDA)
 - Visual insights into financial behavior patterns across segments  
 
-### 🧠 Model Training & Comparison
+ ### 🧠 Model Training & Comparison
+
 Applied classification models include:
 - Logistic Regression  
-- Decision Tree  
-- Random Forest  
-- XGBoost  
-- LightGBM  
+- Decision Tree Classifier  
+- Random Forest Classifier  
+- Gradient Boosting Classifier  
+- XGBoost (Extreme Gradient Boosting)  
+- LightGBM (Light Gradient Boosting Machine)  
 - Support Vector Machines (SVM)  
+  
 
 ### ⚖️ Handling Class Imbalance
 - Used **SMOTE** for synthetic oversampling  
