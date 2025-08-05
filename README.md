@@ -80,7 +80,7 @@ Explore interactive insights from the data using Tableau:
 🔗 [LinkedIn](https://www.linkedin.com/in/reematurki-alotaibi)  
 
 **Hala Alotaibi**  
-🔗 [LinkedIn][(https://www.linkedin.com/in/halalotaibi) ]
+🔗 [LinkedIn](https://www.linkedin.com/in/halalotaibi)
 
 ---
 
